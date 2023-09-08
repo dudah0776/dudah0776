@@ -1,13 +1,9 @@
+dudah0776
 ### Hi there 👋
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudah0776%2Fhit-counter&count_bg=%232880BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <br>
 
-<div align="center">
-  <p>Tech Stack</p>
+<div>
+  <p>🔨Tech Stack</p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <br>
@@ -23,12 +19,22 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudah0776&layout=compact"><br><br>
+<br>
+<p>📬Reach Me</p>
+<a href="mailto:dudah0776@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:dudah0776@gmail.com"/></a>
+  
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudah0776&layout=compact">
+<br>
 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudah0776)](https://solved.ac/profile/dudah0776)
 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudah0776%2Fhit-counter&count_bg=%232880BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **dudah0776/dudah0776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
